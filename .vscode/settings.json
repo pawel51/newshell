@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "string.h": "c",
-        "shell.h": "c",
-        "stdlib.h": "c"
-    }
-}
